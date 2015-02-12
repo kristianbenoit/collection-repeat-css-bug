@@ -1,0 +1,45 @@
+.collection-item.item {
+  left: 0;
+  right: 0;
+  padding: 0;
+ }
+
+.item-divider.brown {
+  background-color: #765200;
+  color: white; }
+
+.item-divider.blue {
+  background-color: #0a577b;
+  color: white; }
+
+.item-divider.green {
+  background-color: #137b0a;
+  color: white; }
+
+.item-divider.grey {
+  background-color: #848484;
+  color: white; }
+
+.category-marker {
+  position: absolute;
+  height: 100%;
+  width: 5px;
+  left: 0px; }
+
+.category-marker.brown {
+  background-color: #c28900; }
+
+.category-marker.blue {
+  background-color: #0f89c2; }
+
+.category-marker.green {
+  background-color: #1bc20f; }
+
+.category-marker.grey {
+  background-color: #aaaaaa; }
+
+.bar-subheader.has-tabs-top {
+  top: 93px !important; }
+
+.has-subheader.has-tabs-top {
+  top: 137px; }
